@@ -22,7 +22,6 @@ import re
 import os
 import signal
 import subprocess
-
 import rasterio
 import rasterio.plot
 from rasterio.plot import show
